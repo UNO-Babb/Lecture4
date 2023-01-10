@@ -4,7 +4,7 @@
 - Create algorithms with Turtle
 
 ### Turtle Graphics
-Drawing with a "turtle" is a popular way to visualize algorthms. It was part of the original Logo programming language developed in the 1960s by Wally Feruzig and Seymour Papert. Originally, a turtle was a robot that used a marker to make lines on a sheet of paper.
+Drawing with a "turtle" is a popular way to visualize algorithms. It was part of the original Logo programming language developed in the 1960s by Wally Feruzig and Seymour Papert. Originally, a turtle was a robot that used a marker to make lines on a sheet of paper.
 
 ```
 >>> import turtle
@@ -54,7 +54,7 @@ How could we make the following shape:
 ![Star Turtle](star.PNG)
 
 ### Functions
-In python, we can define a functions. This can be useful in removing code that is repeated in multiple places in your program and placing it in a function. Functions can be used multiple times throughout your code.
+In python, we can define functions. This can be useful in removing code that is repeated in multiple places in your program and placing it in a function. Functions can be used multiple times throughout your code.
 
 ```
 def drawSquare(myTurtle):
