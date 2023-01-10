@@ -75,5 +75,3 @@ def drawSquare(myTurtle, size):
     myTurtle.forward(size)
     myTurtle.right(90)
 ```
-## Quiz
-1. Based on the following information, which statements would be True?
