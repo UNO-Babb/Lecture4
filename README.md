@@ -75,3 +75,9 @@ def drawSquare(myTurtle, size):
     myTurtle.forward(size)
     myTurtle.right(90)
 ```
+### Challenge:
+Create a *X-Y* grid using the turtle.
+- Use the draw square tool to create each square.
+- Create a function that generates a column of *Y* squares.
+- Create a function that generates a row of *X* columns.
+- Can you get X and Y from user input?
