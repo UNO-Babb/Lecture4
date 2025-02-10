@@ -3,6 +3,11 @@
 - Demonstrate Turtle Graphics
 - Create algorithms with Turtle
 
+### Accessing the Turtle
+- You can use the IDE in your computer or CodeHS's Sandbox
+- Github Code Space will not work since it does not have a graphical componenet
+- [CodeHS Sandbox](https://codehs.com/explore/sandbox/python)
+
 ### Turtle Graphics
 Drawing with a "turtle" is a popular way to visualize algorithms. It was part of the original Logo programming language developed in the 1960s by Wally Feruzig and Seymour Papert. Originally, a turtle was a robot that used a marker to make lines on a sheet of paper.
 
